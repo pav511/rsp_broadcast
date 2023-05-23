@@ -1,7 +1,7 @@
 ---
 summary: Here's some information. 🦄
 env:
-  - idfdev
+  - usdfdev
 enabled: true
 category: info
 ---
