@@ -2,6 +2,7 @@
 summary: Major outage of USDF/S3DF at the end of June.
 env:
   - usdfdev
+  - usdfprod
 enabled: true
 ---
 
