@@ -2,7 +2,7 @@
 summary: Here's some information. 🦄
 env:
   - usdfdev
-enabled: true
+enabled: false
 category: info
 ---
 
