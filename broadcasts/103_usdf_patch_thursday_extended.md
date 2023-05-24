@@ -1,17 +1,10 @@
 ---
-enabled: true
+enabled: false
 summary: |
-  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is **happening now,** 3pm–5pm Pacific / 22:00–00:00 UT.
+  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is still ongoing.
 env:
   - usdfdev
-  - usdfprod
-timezone: America/Los Angeles
-ttl: 2hr
-rules:
-  - freq: weekly
-    start: 2021-08-11T15:00
-    by_weekday:
-      - day: thursday
+  - usdfprod 
 ---
 
 On most Thursday afternoons we deploy updates and perform routine maintenance actions on the Rubin Science Platform.
